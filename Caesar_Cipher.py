@@ -45,6 +45,7 @@ while in_use:
     if continue_program =='no':
         print('Goodbye!')
         in_use = False
+    input()
 
 
 
